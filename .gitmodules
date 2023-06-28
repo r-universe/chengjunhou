@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "xgb2sql"]
 	path = xgb2sql
 	url = https://github.com/chengjunhou/xgb2sql
-	shallow = true
-	registered = true
